@@ -1,0 +1,1 @@
+Optional image assets. Replace the JO placeholder in the hero with a professional portrait if desired. The sponsor ribbon uses text/CSS marks so the folder has no unlicensed third-party logo files.
